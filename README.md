@@ -1,17 +1,15 @@
-le programme sera fait en kotlin
+# Programme de gestion de copropriété
 
-#Programme de gestion de copropriété
+## Définition des utilisateurs
+ -Propriétaire
+- Locataire
+- Syndic
+- Conseil de copropriété CDC
+- Concierge
 
-##Définition des utilisateurs
--Propriétaire
--Locataire
--Syndic
--Conseil de copropriété CDC
--Concierge
+## Fonctionnalité
 
-##Fonctionnalité
-
--Messagerie
+- Messagerie
   -locataire -> Propriétaire
   - Syndic -> Propriétaire
   - Syndic -> Occupant (locataire + propriétaire)
@@ -19,6 +17,8 @@ le programme sera fait en kotlin
   - Syndic -> CDC
   - CDC -> Syndic
   
--Téléchager Pdf Propriété
--Répartition des charges (Année)
--Calendrier (Ajout au calendrier des utilisateur) avec notification
+- Téléchager Pdf Propriété
+
+- Répartition des charges (Année)
+
+- Calendrier (Ajout au calendrier des utilisateur) avec notification
