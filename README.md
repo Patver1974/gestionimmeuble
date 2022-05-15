@@ -19,6 +19,6 @@ le programme sera fait en kotlin
   - Syndic -> CDC
   - CDC -> Syndic
   
-  Téléchager Pdf Propriété
-  Répartition des charges (Année)
-  Calendrier (Ajout au calendrier des utilisateur) avec notification
+-Téléchager Pdf Propriété
+-Répartition des charges (Année)
+-Calendrier (Ajout au calendrier des utilisateur) avec notification
