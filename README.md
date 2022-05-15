@@ -1,7 +1,7 @@
 # Programme de gestion de copropriété
 
 ## Définition des utilisateurs
- -Propriétaire
+- Propriétaire
 - Locataire
 - Syndic
 - Conseil de copropriété CDC
